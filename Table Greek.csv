@@ -1,4 +1,4 @@
-Feature_ID, FEATURE, VALUE, SOURCE, COMMENTS
+﻿Feature_ID;FEATURE;VALUE;SOURCE;COMMENTS
 GB020;Are there definite or specific articles?;1;Holton et al. 2012: 52-53;
 GB021;Do indefinite nominals commonly have indefinite articles?;1;Holton et al. 2012: 53;
 GB022;Are there prenominal articles?;1;Holton et al. 2012: 52-53;
@@ -30,7 +30,7 @@ GB058;Are there possessive classifiers?;0;Holton et al. 2012: 339-340;
 GB059;Is the adnominal possessive construction different for alienable and inalienable nouns?;0;Holton et al. 2012: 387-389;
 GB065;What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?;2;Holton et al. 2012: 387-389;
 GB068;Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?;0;Holton et al. 2012: 86;
-GB069;"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?";0;Holton et al. 2012: 86;
+GB069;Do core adjectives (defined semantically as property concepts, value, shape, age, dimension) used attributively require the same morphological treatment as verbs?;0;Holton et al. 2012: 86;
 GB070;Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?;1;Holton et al. 2012: 328 -365;
 GB071;Are there morphological cases for pronominal core arguments (i.e. S/A/P)?;1;Holton et al. 2012: 328 -365;
 GB072;Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?;0;Holton et al. 2012: 328 -365;
@@ -159,7 +159,7 @@ GB057;Are there numeral classifiers?;0;Holton et al. 2012: 317-325;The possessiv
 GB193;What is the order of adnominal property word and noun?;1;Holton et al. 2012: 86-105;The order is opposite when you want to give emphasis
 GB203;What is the order of the adnominal collective universal quantifier ('all') and the noun?;1;Holton et al. 2012: 396-399;The order is opposite when you want to give emphasis
 GB286;Can polar interrogation be indicated by overt verbal morphology only?;0;Holton et al. 2012: 503-504;The intonation must be changed
-GB297;Can polar interrogation be indicated by a V-not-V construction?;1;Holton et al. 2012: 505;"Tha pas, den tha pas; = You will go, you will not go?"
+GB297;Can polar interrogation be indicated by a V-not-V construction?;1;Holton et al. 2012: 505;Tha pas, den tha pas, = You will go, you will not go?
 GB080;Do verbs have suffixes/enclitics, other than those that only mark A, S or P (do include portmanteau: A & S + TAM)?;1;Holton et al. 2012: 128-132;Tense/aspect suffixes
 GB312;Is there overt morphological marking on the verb dedicated to mood?;1;Holton et al. 2012: 263-266;Subjunctive
 GB118;Are there serial verb constructions?;0;Holton et al. 2012: 226-233;Some specific verb pairs can be serialized
