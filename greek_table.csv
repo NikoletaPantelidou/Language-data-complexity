@@ -1,0 +1,196 @@
+Feature_ID,ENumLab,Feature,Value,Source,Comment
+GB020,1,Are there definite or specific articles?,1,Holton et al. 2012: 52-53,
+GB021,1,Do indefinite nominals commonly have indefinite articles?,1,Holton et al. 2012: 53,
+GB022,1,Are there prenominal articles?,1,Holton et al. 2012: 52-53,
+GB023,1,Are there postnominal articles?,0,Holton et al. 2012: 52-53,
+GB024,12,What is the order of numeral and noun in the NP?,1,Holton et al. 2012: 125-127,
+GB025,2,What is the order of adnominal demonstrative and noun?,3,Holton et al. 2012: 318-319,
+GB026,3,Can adnominal property words occur discontinuously?,0,Holton et al. 2012: 86,
+GB027,11,Are nominal conjunction and comitative expressed by different elements?,1,"Holton et al. 2012: 480-481, 566-567",
+GB028,6,Is there a distinction between inclusive and exclusive?,0,Holton et al. 2012: 113-114,
+GB030,6,Is there a gender distinction in independent 3rd person pronouns?,1,Holton et al. 2012: 112-121,
+GB031,6,Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun system?,0,Holton et al. 2012: 113-114,
+GB035,2,Are there three or more distance contrasts in demonstratives?,0,Holton et al. 2012: 400-403,aytos = near ekeinos = far
+GB036,2,Do demonstratives show an elevation distinction?,0,Holton et al. 2012: 400-403,
+GB037,2,Do demonstratives show a visible-nonvisible distinction?,0,Holton et al. 2012: 400-403,
+GB038,2,Are there demonstrative classifiers?,0,Holton et al. 2012: 400-403,
+GB039,9,Is there nonphonological allomorphy of noun number markers?,1,Holton et al. 2012: 54-85,
+GB041,9,Are there several nouns (more than three) which are suppletive for number?,0,Holton et al. 2012: 54-85,
+GB042,9,Is there productive overt morphological singular marking on nouns?,1,Holton et al. 2012: 54-85,
+GB043,9,Is there productive morphological dual marking on nouns?,0,Holton et al. 2012: 54-85,
+GB044,9,Is there productive morphological plural marking on nouns?,1,Holton et al. 2012: 54-85,
+GB046,9,Is there an associative plural marker for nouns?,1,Holton et al. 2012: 54-85,
+GB047,23,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Holton et al. 2012: 207-214,
+GB048,23,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Holton et al. 2012: 207-214,
+GB049,23,Is there a productive morphological pattern for deriving an object noun from a verb?,1,Holton et al. 2012: 207,
+GB051,4,Is there a gender/noun class system where sex is a factor in class assignment?,1,Holton et al. 2012: 317-325,
+GB052,4,Is there a gender/noun class system where shape is a factor in class assignment?,0,Holton et al. 2012: 317-325,
+GB053,4,Is there a gender/noun class system where animacy is a factor in class assignment?,0,Holton et al. 2012: 317-325,
+GB054,4,Is there a gender/noun class system where plant status is a factor in class assignment?,0,Holton et al. 2012: 317-325,
+GB057,5,Are there numeral classifiers?,0,Holton et al. 2012: 317-325,The possessive construction has agreement though
+GB058,7,Are there possessive classifiers?,0,Holton et al. 2012: 339-340,
+GB059,7,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,Holton et al. 2012: 387-389,
+GB065,12,What is the pragmatically unmarked order of adnominal possessor noun and possessed noun?,2,Holton et al. 2012: 387-389,
+GB068,3,"Do core adjectives (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",0,Holton et al. 2012: 86,
+GB069,3,"Do core adjectives (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,Holton et al. 2012: 86,
+GB070,10,Are there morphological cases for non-pronominal core arguments (i.e. S/A/P)?,1,Holton et al. 2012: 328 -365,
+GB071,6,Are there morphological cases for pronominal core arguments (i.e. S/A/P)?,1,Holton et al. 2012: 328 -365,
+GB072,10,Are there morphological cases for oblique non-pronominal NPs (i.e. not S/A/P)?,0,Holton et al. 2012: 328 -365,
+GB073,6,Are there morphological cases for independent oblique personal pronominal arguments (i.e. not S/A/P)?,0,Holton et al. 2012: 328 -365,
+GB074,12,Are there prepositions?,1,Holton et al. 2012: 459-499,
+GB075,12,Are there postpositions?,0,Holton et al. 2012: 498,Just two examples that are used until today from ancient greek
+GB079,14,"Do verbs have prefixes/proclitics, other than those that only mark A, S or P (do include portmanteau: A & S + TAM)?",1,Holton et al. 2012: 128-132,
+GB080,14,"Do verbs have suffixes/enclitics, other than those that only mark A, S or P (do include portmanteau: A & S + TAM)?",1,Holton et al. 2012: 128-132,Tense/aspect suffixes
+GB081,13,Is there productive infixation in verbs?,1,Holton et al. 2012: 130-137,
+GB082,17,Is there overt morphological marking of present tense on verbs?,1,Holton et al. 2012: 136-137,
+GB083,17,Is there overt morphological marking on the verb dedicated to past tense?,1,Holton et al. 2012: 136-137,
+GB084,17,Is there overt morphological marking on the verb dedicated to future tense?,0,Holton et al. 2012: 136-137,
+GB086,18,Is a morphological distinction between perfective and imperfective aspect available on verbs?,1,Holton et al. 2012: 140-144,
+GB089,14,Can the S argument be indexed by a suffix/enclitic on the verb in the simple main clause?,1,Holton et al. 2012: 136-137,
+GB090,14,Can the S argument be indexed by a prefix/proclitic on the verb in the simple main clause?,0,Holton et al. 2012: 142-143,
+GB091,14,Can the A argument be indexed by a suffix/enclitic on the verb in the simple main clause?,1,Holton et al. 2012: 258-260,
+GB092,14,Can the A argument be indexed by a prefix/proclitic on the verb in the simple main clause?,0,Holton et al. 2012: 258-260,
+GB093,14,Can the P argument be indexed by a suffix/enclitic on the verb in the simple main clause?,0,Holton et al. 2012: 258-260,
+GB094,14,Can the P argument be indexed by a prefix/proclitic on the verb in the simple main clause?,0,Holton et al. 2012: 258-260,
+GB095,14,Are variations in marking strategies of core participants based on TAM distinctions?,0,Holton et al. 2012: 263-307,
+GB096,14,Are variations in marking strategies of core participants based on verb classes?,0,Holton et al. 2012: 140-166,
+GB098,14,Are variations in marking strategies of core participants based on person distinctions?,0,Holton et al. 2012: 140-166,
+GB099,14,Can verb stems alter according to the person of a core participant?,0,Holton et al. 2012: 140-166,
+GB103,15,Is there a benefactive applicative marker on the verb (including indexing)?,0,Holton et al. 2012: 134,
+GB104,15,Is there an instrumental applicative marker on the verb (including indexing)?,0,Holton et al. 2012: 134,
+GB105,10,Can the recipient in a ditransitive construction be marked like the monotransitive patient?,0,Holton et al. 2012: 526-527,
+GB107,25,"Can standard negation be marked by an affix, clitic or modification of the verb?",0,Holton et al. 2012: 509-515,except from some exceptions
+GB108,16,Is there directional or locative morphological marking on verbs?,0,Holton et al. 2012: 129-140,"Not evident, assumed absent"
+GB109,14,Is there verb suppletion for participant number?,0,Holton et al. 2012: 136-137,
+GB110,14,Is there verb suppletion for tense or aspect?,0,Holton et al. 2012: 129-132,
+GB111,13,Are there conjugation classes?,1,Holton et al. 2012: 140-169,
+GB113,14,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,0,Holton et al. 2012: 245-248,
+GB114,15,Is there a phonologically bound reflexive marker on the verb?,1,Holton et al. 2012: 579-583,
+GB115,15,Is there a phonologically bound reciprocal marker on the verb?,1,Holton et al. 2012: 583-586,
+GB116,24,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,Holton et al. 2012: 129-137,"Not evident, assumed absent"
+GB117,20,Is there a copula for predicate nominals?,1,Holton et al. 2012: 310-312,
+GB118,22,Are there serial verb constructions?,0,Holton et al. 2012: 226-233,Some specific verb pairs can be serialized
+GB119,19,"Can mood be marked by an inflecting word (""auxiliary verb"")?",0,Holton et al. 2012: 263-2759,auxiliary words
+GB120,19,"Can aspect be marked by an inflecting word (""auxiliary verb"")?",0,Holton et al. 2012: 284-286,
+GB121,19,"Can tense be marked by an inflecting word (""auxiliary verb"")?",1,Holton et al. 2012: 142-143,
+GB122,13,Is verb compounding a regular process?,0,Holton et al. 2012: 226-233,
+GB123,19,Are there verb-adjunct (aka light-verb) constructions?,0,Holton et al. 2012: 302-306,
+GB124,21,Is incorporation of nouns into verbs a productive intransitivizing process?,0,Holton et al. 2012: 226-233,
+GB126,20,Is there an existential verb?,1,Holton et al. 2012: 170-171,
+GB127,24,Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. 'to lie' vs. 'to stand')?,0,Holton et al. 2012,"Not evident, assumed absent"
+GB129,13,"Is there a notably small number, i.e. about 100 or less, of verb roots in the language?",0,Holton et al. 2012,"Not mentioned, it is assumed that the number of verb roots is not notably small"
+GB130,21,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,Holton et al. 2012: 245-248,
+GB131,22,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,Holton et al. 2012: 543 -550,Some examples exist but probably not pragmatically unmarked
+GB132,22,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,1,Holton et al. 2012: 543 -550,
+GB133,22,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,0,Holton et al. 2012: 543 -550,
+GB134,29,Is the order of constituents the same in main and subordinate clauses?,1,Holton et al. 2012: 531-532,
+GB135,26,Do clausal objects usually occur in the same position as nominal objects?,1,Holton et al. 2012: 531-532,
+GB136,26,Is the order of core argument (i.e. S/A/P) constituents fixed?,0,Holton et al. 2012: 258-260,free order
+GB137,25,Can standard negation be marked clause-finally?,0,Holton et al. 2012: 509-515,
+GB138,25,Can standard negation be marked clause-initially?,1,Holton et al. 2012: 509-515,Pro- drop. Only when the subject is missing.
+GB139,25,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,Holton et al. 2012: 509-515,imperative = min declarative = den
+GB140,24,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",1,Holton et al. 2012: 509-515,
+GB146,24,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,Holton et al. 2012: 310-314,
+GB147,15,Is there a morphological passive marked on the lexical verb?,1,Holton et al. 2012: 145-149,
+GB148,15,Is there a morphological antipassive marked on the lexical verb?,0,Holton et al. 2012: 276-280,
+GB149,16,Is there a morphologically marked inverse on verbs?,0,Holton et al. 2012,"Not evident, assumed absent"
+GB150,26,Is there clause chaining?,0,Holton et al. 2012,"Not evident, assumed absent"
+GB151,16,"Is there an overt verb marker dedicated to signalling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (""switch reference"")?",0,Holton et al. 2012: 530-532,
+GB152,16,Is there a morphologically marked distinction between simultaneous and sequential clauses?,1,Holton et al. 2012: 558-559,
+GB155,15,Are causatives formed by affixes or clitics on verbs?,0,Holton et al. 2012: 280-284,
+GB156,27,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for 'to say'?,0,Holton et al. 2012: 547,
+GB158,13,Are verbs reduplicated?,1,Holton et al. 2012: 191-192,Only participles at passive voice ex. endedigmenos
+GB159,11,Are nouns reduplicated?,0,Holton et al. 2012: 191-192,"Only substantive participles ex pepedeumenos, sesimasmenos"
+GB160,3,Are elements apart from verbs or nouns reduplicated?,0,Holton et al. 2012: 191-192,
+GB165,9,Is there productive morphological trial marking on nouns?,0,Holton et al. 2012: 54-85,
+GB166,9,Is there productive morphological paucal marking on nouns?,0,Holton et al. 2012: 54-85,
+GB167,6,Is there a logophoric pronoun?,0,Holton et al. 2012: 402,
+GB170,3,Can an adnominal property word agree with the noun in gender/noun class?,1,Holton et al. 2012: 86-106,
+GB171,4,Can an adnominal demonstrative agree with the noun in gender/noun class?,1,Holton et al. 2012: 400-403,
+GB172,4,Can an article agree with the noun in gender/noun class?,1,Holton et al. 2012: 52-53,
+GB177,16,"Can the verb carry a marker of animacy of argument, unrelated to any gender/noun class of the argument visible in the NP domain?",0,Holton et al. 2012: 128,
+GB184,3,Can an adnominal property word agree with the noun in number?,1,Holton et al. 2012: 86-106,
+GB185,2,Can an adnominal demonstrative agree with the noun in number?,1,Holton et al. 2012: 400-403,
+GB186,1,Can an article agree with the noun in number?,1,Holton et al. 2012: 52-53,
+GB187,11,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?,1,Holton et al. 2012: 216-217,
+GB188,11,Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?,1,Holton et al. 2012: 217,
+GB192,4,Is there a gender system where a noun's phonological properties are a factor in class assignment?,1,Holton et al. 2012: 54-85,
+GB193,3,What is the order of adnominal property word and noun?,1,Holton et al. 2012: 86-105,The order is opposite when you want to give emphasis
+GB196,6,Is there a male/female distinction in 2nd person independent pronouns?,0,Holton et al. 2012: 112-121,
+GB197,6,Is there a male/female distinction in 1st person independent pronouns?,0,Holton et al. 2012: 112-121,
+GB198,4,Can an adnominal numeral agree with the noun in gender/noun class?,1,Holton et al. 2012: 122-127,
+GB203,5,What is the order of the adnominal collective universal quantifier ('all') and the noun?,1,Holton et al. 2012: 396-399,The order is opposite when you want to give emphasis
+GB204,5,Do collective ('all') and distributive ('every') universal quantifiers differ in their forms or their syntactic positions?,1,Holton et al. 2012: 393,
+GB250,8,Can predicative possession be expressed with a transitive 'habeo' verb?,1,Holton et al. 2012: 112,Habeo is transitive
+GB252,8,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,0,Holton et al. 2012: 112,
+GB253,8,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Holton et al. 2012: 112,
+GB254,8,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,0,Holton et al. 2012: 112,
+GB256,8,Can predicative possession be expressed with an S-like possessor and a possessum that is coded like a comitative argument?,0,Holton et al. 2012: 112,
+GB257,32,Can polar interrogation be marked by intonation only?,1,Holton et al. 2012: 503-504,
+GB260,32,Can polar interrogation be indicated by a special word order?,0,Holton et al. 2012: 503-504,It's like affirmative. You can just change the intonation or put a clause-initial interrogative particle
+GB262,32,Is there a clause-initial polar interrogative particle?,0,"Holton et al. 2012: 504, 506-509",
+GB263,32,Is there a clause-final polar interrogative particle?,0,"Holton et al. 2012: 504, 506-509",
+GB264,32,Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?,0,"Holton et al. 2012: 504, 506-509",
+GB265,34,"Is there a comparative construction that includes a form that elsewhere means 'surpass, exceed'?",1,Holton et al. 2012: 103-106,
+GB266,34,Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?,1,Holton et al. 2012: 104,apo
+GB270,34,Can comparatives be expressed using two conjoined clauses?,0,Holton et al. 2012: 103-106,
+GB273,34,Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a 'surpass/exceed' meaning?,0,Holton et al. 2012: 103-106,
+GB275,3,Is there a bound comparative degree marker on the property word in a comparative construction?,1,Holton et al. 2012: 103-106,
+GB276,3,Is there a non-bound comparative degree marker modifying the property word in a comparative construction?,1,Holton et al. 2012: 103-104,
+GB285,32,Can polar interrogation be marked by a question particle and verbal morphology?,0,Holton et al. 2012: 503-504,It's like affirmative. You can just change the intonation or put a clause-initial interrogative particle
+GB286,32,Can polar interrogation be indicated by overt verbal morphology only?,0,Holton et al. 2012: 503-504,The intonation must be changed
+GB291,32,Can polar interrogation be marked by tone?,0,Holton et al. 2012: 503-504,
+GB296,35,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,0,Holton et al. 2012,"There is not a definable class of ideophones outside those which depict sound, for example the nouns tzitziki and koukos"
+GB297,32,Can polar interrogation be indicated by a V-not-V construction?,1,Holton et al. 2012: 505,"Tha pas, den tha pas; = You will go, you will not go?"
+GB298,25,"Can standard negation be marked by an inflecting word (""auxiliary verb"")?",0,Holton et al. 2012: 509-515,"There are particles :den,min"
+GB299,25,"Can standard negation be marked by a non-inflecting word (""auxiliary particle"")?",1,Holton et al. 2012: 509-515,"There are particles :den,min"
+GB300,13,Does the verb for 'give' have suppletive verb forms?,0,Holton et al. 2012,"Not mentioned, assumed absent"
+GB301,12,Is there an inclusory construction?,1,Holton et al. 2012,It is possible to use a 1ppl verb with a 2ppl subject without an overt 1ppl pronoun
+GB302,31,"Is there a phonologically free passive marker (""particle"" or ""auxiliary"")?",1,Holton et al. 2012: 147,
+GB303,31,"Is there a phonologically free antipassive marker (""particle"" or ""auxiliary"")?",0,Holton et al. 2012: 280-284,
+GB304,31,Can the agent be expressed overtly in a passive clause?,1,Holton et al. 2012: 280-284,By apo and accusative case
+GB305,6,Is there a phonologically independent reflexive pronoun?,1,Holton et al. 2012: 580-583,
+GB306,6,Is there a phonologically independent non-bipartite reciprocal pronoun?,1,Holton et al. 2012: 583-586,
+GB309,17,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",1,Holton et al. 2012: 131,
+GB312,18,Is there overt morphological marking on the verb dedicated to mood?,1,Holton et al. 2012: 263-266,Subjunctive
+GB313,7,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,1,Holton et al. 2012: 339-340,
+GB314,4,Can augmentative meaning be expressed productively by a shift of gender/noun class?,0,Holton et al. 2012: 103-106,Though the augmentative suffixes govern a specific gender
+GB315,4,Can diminutive meaning be expressed productively by a shift of gender/noun class?,0,Holton et al. 2012: 103-106,Though the diminitive suffixes govern a specific gender
+GB316,12,Is singular number regularly marked in the noun phrase by a dedicated phonologically free element?,0,Holton et al. 2012: 54-85,Singular is marked by suffix
+GB317,12,Is dual number regularly marked in the noun phrase by a dedicated phonologically free element?,0,Holton et al. 2012: 54-85,Dual number doesn't exist in modern Greek
+GB318,12,Is plural number regularly marked in the noun phrase by a dedicated phonologically free element?,0,Holton et al. 2012: 54-85,Plural is marked by suffix
+GB319,12,Is trial number regularly marked in the noun phrase by a dedicated phonologically free element?,0,Holton et al. 2012: 54-85,
+GB320,12,Is paucal number regularly marked in the noun phrase by a dedicated phonologically free element?,0,Holton et al. 2012: 54-83,
+GB321,4,Is there a large class of nouns whose gender/noun class is not phonologically or semantically predictable?,1,Holton et al. 2012: 54-83,
+GB322,28,Is there grammatical marking of direct evidence (perceived with the senses)?,0,Holton et al. 2012,There are synonyms for a specific meaning
+GB323,28,"Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?",0,Holton et al. 2012,There are synonyms for a specific meaning
+GB324,33,"Is there an interrogative verb for content interrogatives (who?, what?, etc.)?",0,Holton et al. 2012: 409-412,
+GB325,33,Is there a count/mass distinction in interrogative quantifiers?,0,Holton et al. 2012: 409-412,
+GB326,33,Do (nominal) content interrogatives normally or frequently occur in situ?,0,Holton et al. 2012: 409-412,ex. indirect speech
+GB327,29,Can the relative clause follow the noun?,1,Holton et al. 2012: 532-540,
+GB328,29,Can the relative clause precede the noun?,0,Holton et al. 2012: 532-540,
+GB329,29,Are there internally-headed relative clauses?,0,Holton et al. 2012: 532-540,
+GB330,29,Are there correlative relative clauses?,1,Holton et al. 2012: 403,
+GB331,29,Are there non-adjacent relative clauses?,1,Holton et al. 2012: 537-540,
+GB333,5,Is there a decimal numeral system?,1,Holton et al. 2012: 122-124,
+GB334,5,Is there synchronic evidence for any element of a quinary numeral system?,0,Holton et al. 2012: 122-124,
+GB335,5,Is there synchronic evidence for any element of a vigesimal numeral system?,0,Holton et al. 2012: 122-124,
+GB336,5,Is there a body-part tallying system?,0,Holton et al. 2012: 122-124,
+GB400,27,"Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?",0,Holton et al. 2012: 128-134,
+GB401,13,Is there a class of patient-labile verbs?,0,Holton et al. 2012,John ate too much. John ate a salad.
+GB402,13,Does the verb for 'see' have suppletive verb forms?,1,Holton et al. 2012,"The verbs vlepo/ida are suppletive, being conditioned by tense"
+GB403,13,Does the verb for 'come' have suppletive verb forms?,1,Holton et al. 2012,"The verbs erxomai and ertha/eltha, are suppletive forms conditioned by tense"
+GB408,10,Is there any accusative alignment of flagging?,1,Holton et al. 2012: 245-249,
+GB409,10,Is there any ergative alignment of flagging?,0,Holton et al. 2012: 245-249,
+GB410,10,Is there any neutral alignment of flagging?,0,Holton et al. 2012: 245-249,
+GB415,6,Is there a politeness distinction in 2nd person forms?,1,Holton et al. 2012: 113,
+GB421,27,Is there a preposed complementizer in complements of verbs of thinking and/or knowing?,1,Holton et al. 2012: 543-553,"oti,pos"
+GB422,27,Is there a postposed complementizer in complements of verbs of thinking and/or knowing?,0,Holton et al. 2012: 543-553,
+GB430,7,Can adnominal possession be marked by a prefix on the possessor?,0,Holton et al. 2012: 112-117,
+GB431,7,Can adnominal possession be marked by a prefix on the possessed noun?,0,Holton et al. 2012: 112-117,
+GB432,7,Can adnominal possession be marked by a suffix on the possessor?,1,Holton et al. 2012: 112-117,geniki ktitiki
+GB433,7,Can adnominal possession be marked by a suffix on the possessed noun?,0,Holton et al. 2012: 112-117,
+GB519,30,"Can mood be marked by a non-inflecting word (""auxiliary particle"")?",0,Holton et al. 2012: 263-265,
+GB520,30,"Can aspect be marked by a non-inflecting word (""auxiliary particle"")?",0,Holton et al. 2012: 130-132,
+GB521,30,"Can tense be marked by a non-inflecting word (""auxiliary particle"")?",1,Holton et al. 2012: 297-299,
+GB522,6,"Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferrable from context (""pro-drop"" or ""null anaphora"")?",1,Holton et al. 2012: 332-334,examples: efaga (I ate)
