@@ -1,4 +1,4 @@
-ID,Name,Description,ColumnSpec,Patrons,Grambank_ID_desc,Boundness,Flexivity,Gender_or_Noun_Class,Locus_of_Marking,Word_Order,Informativity
+ID,Name,Description,ColumnSpec,Patrons,Grambank_ID_desc,Fusion,Flexivity,Gender_or_Noun_Class,Locus_of_Marking,Word_Order,Informativity
 GB020,Are there definite or specific articles?,"## Are there definite or specific articles?
 
 ## Summary
