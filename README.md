@@ -6,6 +6,10 @@ This project analyzes language complexity across **English, Greek, Catalan, and 
 
 - **Fusion**: Measures the amount of morphology in a language.
 - **Informativity**: Assesses the amount of obligatory grammatical information encoded.
+
+## Purpose
+This study aims to compare how different languages encode complexity and whether **morphology (Fusion) and grammatical encoding (Informativity) vary systematically across these languages. 
+
   
 ## Methodology
 
@@ -21,9 +25,10 @@ This project analyzes language complexity across **English, Greek, Catalan, and 
   - A language score if it marks at least one feature in each group.
   - The informativity score is the proportion of marked sets.
 
-## Purpose
+## Technologies 
+- Python 3.11 under the Google Colabs environment
+- Pandas library for data representation 
 
-This study aims to compare how different languages encode complexity and whether **morphology (Fusion) and grammatical encoding (Informativity) vary systematically across these languages.**
 
 
 ## Future Work
