@@ -6,17 +6,19 @@ This project analyzes language complexity across **English, Greek, Catalan, and 
 
 - **Fusion**: Measures the amount of morphology in a language.
 - **Informativity**: Assesses the amount of obligatory grammatical information encoded.
-
+  
 ## Methodology
 
-- **Data Source**: Grambank dataset with selected language values.
+- **Data Source**:
+- 1.Grambank dataset with selected language values (document values.csv including only the relevant languages of this study)
+- 2.Parameters file for fusion and informativity (parameters.csv) belongs to Hedvig Skirgård and no changes applied.
 - **Fusion Score Calculation**:
   - Features with a Fusion weight of `1` contribute points to the Fusion score.
   - Features with a weight of `0` or `0.5` are ignored.
   - The final Fusion score is the mean of all valid Fusion points.
 - **Informativity Score Calculation**:
   - Groups of grammatical features (e.g., singular, tense) are analyzed.
-  - A language scores if it marks at least one feature in each group.
+  - A language score if it marks at least one feature in each group.
   - The informativity score is the proportion of marked sets.
 
 ## Purpose
