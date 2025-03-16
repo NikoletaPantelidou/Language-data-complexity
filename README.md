@@ -26,7 +26,7 @@ This study aims to compare how different languages encode complexity and whether
   - The informativity score is the proportion of marked sets.
 
 ## Technologies 
-- Python 3.11 under the Google Colabs environment
+- Python (3.12) under the Spyder (6.0) environment
 - Pandas library for data representation 
 
 
