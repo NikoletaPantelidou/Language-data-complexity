@@ -8,7 +8,7 @@ This project analyzes language complexity across **English, Greek, Catalan, and 
 - **Informativity**: Assesses the amount of obligatory grammatical information encoded.
 
 ## Purpose
-This study aims to compare how different languages encode complexity and whether **morphology (Fusion) and grammatical encoding (Informativity) vary systematically across these languages. 
+This study aims to compare how different languages encode complexity and whether morphology (Fusion) and grammatical encoding (Informativity) vary systematically across them.
 
   
 ## Methodology
